@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @B00148727
+- 👀 I’m interested in research and python
